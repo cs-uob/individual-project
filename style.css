@@ -1,0 +1,23 @@
+h1 {
+    font-size: 3.5vw;
+}
+
+p {
+    font-size: 2vw;
+}
+
+div.main_bar {
+    background-color:#53682bff;
+    padding-top:1px;
+    padding-left:25px;
+    padding-bottom:1px;
+    text-align:left;
+}
+
+.title {
+    font-family: Rockwell;
+}
+
+.light_font {
+    color: white;
+}
