@@ -1,17 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
 h1 {
     font-size: 3.5vw;
 }
 
-p {
+h2 {
+    font-size: 2.5vw;
+}
+
+h3 {
     font-size: 2vw;
+    color: #53682bff;
+}
+
+p {
+    font-size: 1.20vw;
 }
 
 div.main_bar {
-    background-color:#53682bff;
-    padding-top:1px;
-    padding-left:25px;
-    padding-bottom:1px;
-    text-align:left;
+    background-color: #53682bff;
+    padding-top: 1px;
+    padding-left: 25px;
+    padding-bottom: 1px;
+    text-align: left;
 }
 
 .title {
@@ -20,4 +33,23 @@ div.main_bar {
 
 .light_font {
     color: white;
+}
+
+.left {
+    float: left;
+    width: 20%;
+    background-color: #ecececff;
+    padding: 15px;
+}
+
+.main {
+    float: left;
+    width: 80%;
+    padding: 0 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .left, .main {
+        width: 100%;
+    }
 }
