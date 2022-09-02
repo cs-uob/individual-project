@@ -14,3 +14,6 @@ Table of contents
 </details>
 
 ## Contact Us
+
+* John Lapinskas (Unit Director): [john.lapinskas@bristol.ac.uk](mailto:john.lapinskas@bristol.ac.uk)
+* Michael Wray: [michael.wray@bristol.ac.uk](michael.wray@bristol.ac.uk)
