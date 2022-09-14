@@ -25,6 +25,12 @@ one-on-one sessions with experts in the field.
 
 ## Schedule
 
-* **Introductory talk:** Asynchronous video lecture, now available [here](https://web.microsoftstream.com/video/9628bf68-c02d-4a6a-9668-a4a6c01d4463). Slides available [here](https://www.ole.bris.ac.uk/bbcswebdav/pid-5945623-dt-content-rid-22914872_2/xid-22914872_2), handout version available [here](https://www.ole.bris.ac.uk/bbcswebdav/pid-5945623-dt-content-rid-22914871_2/xid-22914871_2).
-* **Q&A session 1:** Online session, streamed on Teams and with questions asked anonymously via a moderated Padlet [here](https://uob.padlet.org/johnlapinskas1/tjqg41uubt94z177). Recording available [here](https://web.microsoftstream.com/video/1588e759-2021-48d1-ae7a-64c05f7cfe8e). <span style="color:red">**Friday October 1st 16:00-17:00** </span>
-* **Q&A session 1:** Online session, streamed on Teams and with questions asked anonymously via a moderated Padlet [here](https://uob.padlet.org/johnlapinskas1/wljm8s7voss6vjjg). Recording available [here](https://web.microsoftstream.com/video/c641b737-d7da-4129-bcb9-a89061e338cd). <span style="color:red">**Friday October 8th 16:00-17:00** </span>
+* **Introductory talk:** Details of the unit and how its structured.
+* **Q&A session 1:** 1.11 Physics Building. <span style="color:red">**Tuesday 4th October 12:00-13:00** </span>
+* **Q&A session 2:** 1.11 Physics Building. <span style="color:red">**Tuesday 11th October 12:00-13:00** </span>
+* **Supervisor Information Release:** A spreadsheet of available supervisors with suggested projects *coming soon Week 4/5*.
+* **Project Specification Deadline:** Deadline for finding a supervisor and submitting a short form to help us assign you a secondary marker. <span style="color:red">**Friday 18th November 12:00 (end of week 8)** </span>
+* **Start of TB2 Talk:** Details of the unit during TB2, location tbc. <span style="color:red">**Date tbc** </span>
+* **Q&A session 3:** location tbc. <span style="color:red">**Date tbc** </span>
+* **Project Poster Day:** An optional-but-encouraged event to show your project to the world as you write your dissertation. Bill Brown Design Suite Queens Building. <span style="color:red">**Wednesday 19th April 14:00-17:00** </span>
+* **Project Submission Deadline:** Deadline for submitting your dissertation along with any auxiliary materials like source code. This will form 100% of your mark for the unit. <span style="color:red">**Friday 5th May 2023** </span>
