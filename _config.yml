@@ -37,8 +37,14 @@ aux_links:
     - "https://www.ole.bris.ac.uk/"
 
 nav_external_links:
-  - title: Announcements (BB)
-    url: https://www.ole.bris.ac.uk/
+  - title: Announcements COMS30045 (BB)
+    url: https://www.ole.bris.ac.uk/webapps/blackboard/execute/launcher?type=Course&id=_252951_1&url=
+    hide_icon: false
+  - title: Announcements COMSM0052 (BB)
+    url: https://www.ole.bris.ac.uk/webapps/blackboard/execute/launcher?type=Course&id=_252905_1&url=
+    hide_icon: false
+  - title: Announcements COMS30044 (BB)
+    url: https://www.ole.bris.ac.uk/webapps/blackboard/execute/launcher?type=Course&id=_252952_1&url=
     hide_icon: false
 
 color_scheme: dark
