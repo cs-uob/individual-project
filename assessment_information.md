@@ -23,12 +23,18 @@ the project handbook, *coming soon for 22/23*.
 ### Example Projects
 
 Here are a list of Projects which scored a high first, as examples of projects that are possible.
-* Example Project 1 [link]().
-* Example Project 2 [link]().
+* Comparing the expressivity of two modal lambda calculi [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/comparing-the-expressivity-of-two-modal-lambda-calculi_IPIC_1.pdf?csf=1&web=1&e=lfLpZ9).
+* Designing an Accessible Ozobot Programming Platform for Students with Mixed Visual Abilities [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/designing-an-accessible-ozobot-programming-platform-for-students-with-mixed-visual-abilities_IP_1.pdf?csf=1&web=1&e=l9kzOu).
+* NavBand: A Cutaneous Feedback Wristband to Aid Pedestrian Navigation [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/navband-a-cutaneous-feedback-wristband-to-aid-pedestrian-navigation_IP_1.pdf?csf=1&web=1&e=05c256).
+* Semi-Streaming Algorithms in Practice [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/semi-streaming-algorithms-in-practice_IPIC_1.pdf?csf=1&web=1&e=nhPrby).
+* SySat: A Saturation Procedure for Verifying Functional Programs [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/SySat-a-saturation-procedure-for-verifying-functional-programs_IPIC_1.pdf?csf=1&web=1&e=A7FsEE).
 
 Here are list of Projects which scored a high 2:1:
-* Example Project 3 [link]().
-* Example Project 4 [link]().
+* A Comprehensive Study of the Ensemble Learning in Predicting the Stock Market [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/a-comprehensive-study-of-the-ensemble-learning-in-predicting-the-stock-market_IP_2-1.pdf?csf=1&web=1&e=OtoQm9).
+* Defence Against the Dark Arts [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/defence-against-the-dark-arts_IPIC_2-1.pdf?csf=1&web=1&e=rxJbEo).
+* Designing a Pet Companion Robot [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/designing-a-pet-companion-robot_IP_2-1.pdf?csf=1&web=1&e=cmZgTk).
+* Fraud Board [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/fraud-board_ip_2-1.pdf?csf=1&web=1&e=tta8UR).
+* Global Meets Local Adaptive Learning [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/global-meets-local-adaptive-learning_IPIC_2-1.pdf?csf=1&web=1&e=qaxkD7).
 
 ## Ethics
 
