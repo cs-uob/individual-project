@@ -22,25 +22,27 @@ the project handbook, *coming soon for 22/23*.
 
 ### Example Projects
 
-Here are a list of Projects which scored a high first, as examples of projects that are possible.
-* Comparing the expressivity of two modal lambda calculi [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/comparing-the-expressivity-of-two-modal-lambda-calculi_IPIC_1.pdf?csf=1&web=1&e=lfLpZ9).
-* Designing an Accessible Ozobot Programming Platform for Students with Mixed Visual Abilities [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/designing-an-accessible-ozobot-programming-platform-for-students-with-mixed-visual-abilities_IP_1.pdf?csf=1&web=1&e=l9kzOu).
-* NavBand: A Cutaneous Feedback Wristband to Aid Pedestrian Navigation [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/navband-a-cutaneous-feedback-wristband-to-aid-pedestrian-navigation_IP_1.pdf?csf=1&web=1&e=05c256).
-* Semi-Streaming Algorithms in Practice [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/semi-streaming-algorithms-in-practice_IPIC_1.pdf?csf=1&web=1&e=nhPrby).
-* SySat: A Saturation Procedure for Verifying Functional Programs [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/SySat-a-saturation-procedure-for-verifying-functional-programs_IPIC_1.pdf?csf=1&web=1&e=A7FsEE).
+Here are some of the best dissertations from last year, all scoring high firsts, as examples of what sort of projects are possible at the top end.
+* [Comparing the expressivity of two modal lambda calculi](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/comparing-the-expressivity-of-two-modal-lambda-calculi_IPIC_1.pdf?csf=1&web=1&e=lfLpZ9).
+* [Designing an Accessible Ozobot Programming Platform for Students with Mixed Visual Abilities](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/designing-an-accessible-ozobot-programming-platform-for-students-with-mixed-visual-abilities_IP_1.pdf?csf=1&web=1&e=l9kzOu).
+* [NavBand: A Cutaneous Feedback Wristband to Aid Pedestrian Navigation](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/navband-a-cutaneous-feedback-wristband-to-aid-pedestrian-navigation_IP_1.pdf?csf=1&web=1&e=05c256).
+* [Semi-Streaming Algorithms in Practice](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/semi-streaming-algorithms-in-practice_IPIC_1.pdf?csf=1&web=1&e=nhPrby).
+* [SySat: A Saturation Procedure for Verifying Functional Programs](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-first/SySat-a-saturation-procedure-for-verifying-functional-programs_IPIC_1.pdf?csf=1&web=1&e=A7FsEE).
 
-Here are list of Projects which scored a high 2:1:
-* A Comprehensive Study of the Ensemble Learning in Predicting the Stock Market [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/a-comprehensive-study-of-the-ensemble-learning-in-predicting-the-stock-market_IP_2-1.pdf?csf=1&web=1&e=OtoQm9).
-* Defence Against the Dark Arts [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/defence-against-the-dark-arts_IPIC_2-1.pdf?csf=1&web=1&e=rxJbEo).
-* Designing a Pet Companion Robot [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/designing-a-pet-companion-robot_IP_2-1.pdf?csf=1&web=1&e=cmZgTk).
-* Fraud Board [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/fraud-board_ip_2-1.pdf?csf=1&web=1&e=tta8UR).
-* Global Meets Local Adaptive Learning [link](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/global-meets-local-adaptive-learning_IPIC_2-1.pdf?csf=1&web=1&e=qaxkD7).
+Here are some examples of solid dissertations which scored high 2:1s, as examples of what sort of projects can do well without being top of the year.
+* [A Comprehensive Study of the Ensemble Learning in Predicting the Stock Market](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/a-comprehensive-study-of-the-ensemble-learning-in-predicting-the-stock-market_IP_2-1.pdf?csf=1&web=1&e=OtoQm9).
+* [Defence Against the Dark Arts](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/defence-against-the-dark-arts_IPIC_2-1.pdf?csf=1&web=1&e=rxJbEo).
+* [Designing a Pet Companion Robot](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/designing-a-pet-companion-robot_IP_2-1.pdf?csf=1&web=1&e=cmZgTk).
+* [Fraud Board](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/fraud-board_ip_2-1.pdf?csf=1&web=1&e=tta8UR).
+* [Global Meets Local Adaptive Learning](https://uob.sharepoint.com/:b:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/Examples/High-2_1/global-meets-local-adaptive-learning_IPIC_2-1.pdf?csf=1&web=1&e=qaxkD7).
 
 ## Ethics
 
 This year we will require **all** students to pass a short ethics quiz before
 submitting their project specification, regardless of whether your project
-requires ethics or not.
+requires an ethics application or not. In fact, the main point of the training 
+is to make sure that you can accurately tell whether your project requires a full ethics
+application or whether it's something that you and your supervisor can handle together.
 
 ### Ethics Quiz
 
