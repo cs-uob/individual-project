@@ -26,7 +26,7 @@ one-on-one sessions with experts in the field.
 ## Schedule and videos
 
 * **Introductory talk:** Details of the unit, how it's structured, and how to think of a project and find a supervisor. <span style="color:red">**Asynchronous Lecture** </span>
-* **Q&A session 1:** Online on Teams. <span style="color:red">**Tuesday 4th October 12:00-13:00 (Week 2)** </span>
+* **Q&A session 1: Online on Teams**. <span style="color:red">**Tuesday 4th October 12:00-13:00 (Week 2)** </span>. Padlet link [here](https://uob.padlet.org/michaelwray1/7s8gxe2exdxiqetc) (Click continue with Microsoft when signing in).
 * **Q&A session 2:** Online on Teams. <span style="color:red">**Tuesday 11th October 12:00-13:00 (Week 3)** </span>
 * **Supervisor information release:** A spreadsheet of available supervisors with suggested projects. <span style="color:red">**To be released Week 4/5**</span>
 * **Supervisor matching event:** An in-person event for students who are having trouble finding supervisors, and supervisors who are having trouble finding students. Bill Brown Design Suite (Queens Building). <span style="color:red">**Wednesday 26th October 14:00-16:00 (Week 5)**</span>
