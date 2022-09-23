@@ -36,11 +36,6 @@ aux_links:
   "Blackboard home page":
     - "https://www.ole.bris.ac.uk/"
 
-nav_external_links:
-  - title: Announcements (BB)
-    url: https://www.ole.bris.ac.uk/
-    hide_icon: false
-
 color_scheme: dark
 
 # Exclude from processing.
