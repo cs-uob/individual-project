@@ -24,7 +24,7 @@ this challenge. That said, it will also be one of the most fulfilling parts of
 your degree, since it is a chance to focus on what you want to do, supported by
 one-on-one sessions with experts in the field.
 
-## Schedule and videos
+## Schedule and Videos
 
 * **Introductory talk:** Details of the unit, how it's structured, and how to think of a project and find a supervisor. Asynchronous, video [here](https://web.microsoftstream.com/video/21775a82-b1d5-4189-9eb2-2ad7ca85c04c).
 * **Q&A session 1: Online on Teams**. <span style="color:red">**Tuesday 4th October 12:00-13:00 (Week 2)**</span>. Padlet link [here](https://uob.padlet.org/michaelwray1/7s8gxe2exdxiqetc). (Click "continue with Microsoft" when signing in).
@@ -39,10 +39,10 @@ one-on-one sessions with experts in the field.
 * **Project submission deadline:** Deadline for submitting your dissertation along with any auxiliary materials like source code. This will form 100% of your mark for the unit for COMS30044 and COMS30045 students and 88% for COMSM0052 students. <span style="color:red">**Friday 5th May 2023 12:00 (Week 24)** </span>
 * **Viva:** Summative oral exam with your second marker, to take place on Teams. This will include e.g. showing that your code performs as advertised, and will inform your overall mark without being a fixed percentage of it. <span style="color:red">**Date TBD but likely Wednesday 31st May or Thursday 1st June 2023** </span>
 
-## Project handbook
+## Project Handbook
 
 Almost every question you might have about the project is answered in
-the project handbook, available [here](../2021_22_Project_handbook.pdf).
+the project handbook [here](../2021_22_Project_handbook.pdf). **Check this first!**
 
 ## Teams Channel
 
