@@ -77,3 +77,15 @@ folder you will also find a poster template for the project fair day.
 ### Word Dissertation Template
 
 The word template for the Dissertation can be found [here](https://uob.sharepoint.com/:w:/r/teams/grp-cs-individual-projects-2022/Shared%20Documents/General/ThesisTemplate.docx?d=w77ebb46e867d41a8a89e269f3440c671&csf=1&web=1&e=yzmwjH).
+
+
+## Assessment Support and Guidance
+
+* [Request a Coursework Extension](https://www.bristol.ac.uk/students/support/academic-advice/assessment-support/request-a-coursework-extension/)
+* [Extenuating Circumstances Guidance](https://www.bristol.ac.uk/students/support/academic-advice/assessment-support/extenuating-circumstances/)
+* [What Assessment Support is Available](https://www.bristol.ac.uk/students/support/academic-advice/assessment-support/)
+* [Study Support](https://www.bristol.ac.uk/students/your-studies/study-support/)
+* [Wellbeing Support](https://www.bristol.ac.uk/students/support/wellbeing/)
+* [Exam Arrangements](http://www.bristol.ac.uk/directory/exams/)
+* [Guidance on Exam Board Outcomes](https://www.bristol.ac.uk/students/support/academic-advice/outcomes/)
+* [Resits and Supplementary Assessments](https://www.bristol.ac.uk/students/support/academic-advice/outcomes/resits/)
