@@ -1,5 +1,6 @@
 ---
 layout: default
+nav_order: 1
 title: Main hub
 permalink: /
 ---
@@ -25,8 +26,8 @@ one-on-one sessions with experts in the field.
 
 ## Schedule and videos
 
-* **Introductory talk:** Details of the unit, how it's structured, and how to think of a project and find a supervisor. <span style="color:red">**Asynchronous Lecture** </span>
-* **Q&A session 1: Online on Teams**. <span style="color:red">**Tuesday 4th October 12:00-13:00 (Week 2)** </span>. Padlet link [here](https://uob.padlet.org/michaelwray1/7s8gxe2exdxiqetc) (Click continue with Microsoft when signing in).
+* **Introductory talk:** Details of the unit, how it's structured, and how to think of a project and find a supervisor. Asynchronous, video [here](https://web.microsoftstream.com/video/21775a82-b1d5-4189-9eb2-2ad7ca85c04c).
+* **Q&A session 1: Online on Teams**. <span style="color:red">**Tuesday 4th October 12:00-13:00 (Week 2)**</span>. Padlet link [here](https://uob.padlet.org/michaelwray1/7s8gxe2exdxiqetc). (Click "continue with Microsoft" when signing in).
 * **Q&A session 2:** Online on Teams. <span style="color:red">**Tuesday 11th October 12:00-13:00 (Week 3)** </span>
 * **Supervisor information release:** A spreadsheet of available supervisors with suggested projects. <span style="color:red">**To be released Week 4/5**</span>
 * **Supervisor matching event:** An in-person event for students who are having trouble finding supervisors, and supervisors who are having trouble finding students. Bill Brown Design Suite (Queens Building). <span style="color:red">**Wednesday 26th October 14:00-16:00 (Week 5)**</span>
@@ -38,6 +39,10 @@ one-on-one sessions with experts in the field.
 * **Project submission deadline:** Deadline for submitting your dissertation along with any auxiliary materials like source code. This will form 100% of your mark for the unit for COMS30044 and COMS30045 students and 88% for COMSM0052 students. <span style="color:red">**Friday 5th May 2023 12:00 (Week 24)** </span>
 * **Viva:** Summative oral exam with your second marker, to take place on Teams. This will include e.g. showing that your code performs as advertised, and will inform your overall mark without being a fixed percentage of it. <span style="color:red">**Date TBD but likely Wednesday 31st May or Thursday 1st June 2023** </span>
 
+## Project handbook
+
+Almost every question you might have about the project is answered in
+the project handbook, available [here](../2021_22_Project_handbook.pdf).
 
 ## Teams Channel
 
