@@ -48,6 +48,9 @@ application or whether it's something that you and your supervisor can handle to
 
 Can be found on the welcome page of your respective unit on blackboard.
 
+Links are here for [COMS30044](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252952_1&content_id=_7383656_1&mode=cpview), [COMS30045](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252951_1&content_id=_7382043_1&mode=cpview), and [COMSM0052](https://www.ole.bris.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_252905_1&content_id=_7383655_1&mode=cpview)
+
+
 ### Ethics Links
 
 * [Ethics Lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EQvlN83RWHBOl2W5fZ9gR30B1-HjBElhCL_LFTg-Ndk-GQ?e=zGH5BT) (useful to pass the ethics quiz!).
