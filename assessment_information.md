@@ -53,7 +53,7 @@ Links are here for [COMS30044](https://www.ole.bris.ac.uk/webapps/blackboard/con
 
 ### Ethics Links
 
-* [Ethics Lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EQvlN83RWHBOl2W5fZ9gR30B1-HjBElhCL_LFTg-Ndk-GQ?e=zGH5BT) (useful to pass the ethics quiz!).
+* [Ethics Lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EWWRhVq2SEVCpMz8B0Dna0IBdtjxdtG7zP0CKzpobZ3ALQ?e=wE4ED1) (useful to pass the ethics quiz!).
 
 * [Student permission form](https://uob.sharepoint.com/:w:/t/grp-cs-individual-projects-2022/EYSvunuiAwtFowMxrt1tBnsBED0_hRTQapxkwCJdY5L50g?e=qiC5dj) (for projects which need ethical approval and are
   covered by Ethics Application 0026).
