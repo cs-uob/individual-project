@@ -33,7 +33,7 @@ What you need to do now is:
 
 **Warning:** steps 3 and 4 are not optional - if you submit a project specification for a supervisor without talking to them first, they'll definitely turn it down!
 
-Also, as a reminder: next Wednesday afternoon (**October 26th**) from **2pm-4pm** we're running a project matching session in Bill Brown. There's no need to come along if you have a supervisor or you're already in talks, but if you're having a hard time finding someone or you're not quite sure what you want to do, then this is a great chance to meet people - most of the available supervisors will be there!
+Also, as a reminder: next Wednesday afternoon (**October 26th**) from **2pm-4pm** we're running a project matching session in Bill Brown. There's no need to come along if you have a supervisor or you're already in talks with someone, but if you're having a hard time finding someone or you're not quite sure what you want to do, then this is a great chance to meet people - most of the available supervisors will be there!
 
 Best wishes,
 
