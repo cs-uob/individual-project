@@ -46,9 +46,11 @@ application or whether it's something that you and your supervisor can handle to
 
 ### Ethics Quiz
 
-*Coming soon!*
+Can be found on the welcome page of your respective unit on blackboard.
 
 ### Ethics Links
+
+* [Ethics Lecture](https://uob-my.sharepoint.com/:v:/g/personal/mw1760_bristol_ac_uk/EQvlN83RWHBOl2W5fZ9gR30B1-HjBElhCL_LFTg-Ndk-GQ?e=zGH5BT) (useful to pass the ethics quiz!).
 
 * [Student permission form](https://uob.sharepoint.com/:w:/t/grp-cs-individual-projects-2022/EYSvunuiAwtFowMxrt1tBnsBED0_hRTQapxkwCJdY5L50g?e=qiC5dj) (for projects which need ethical approval and are
   covered by Ethics Application 0026).
