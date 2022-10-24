@@ -15,6 +15,18 @@ Table of contents
 
 # Announcements Page
 
+## Reminder: Project matching day Wednesday!
+
+Hi all,
+
+This is a reminder that the project matching day is going to happen **this Wednesday** in the **Bill Brown Suite** (Queen's Building) from **2pm-4pm**. This is a general mingling event between students who need supervisors and supervisors who need students - so if you haven't been able to find a supervisor in your area yet, or if you're still not quite sure what you'd like to do, this is a great opportunity! (As a corollary, if you've already found a supervisor then there's no need to come.) If you're coming, it would be a good idea to take another look at [the spreadsheet](https://uob-my.sharepoint.com/:x:/g/personal/fz19826_bristol_ac_uk/EWPVy8ttUt9EqjSR97u8B0wBZRkOmt8oJXYPeyX9mAHKkA) beforehand, to get an idea of who you might want to talk to.
+
+Best wishes,
+
+John
+
+Halloween cat of the day: [Here](https://i.redd.it/rgwdy8rkuht91.jpg)!
+
 ## Project ideas are live!
 
 Hi all,
