@@ -43,7 +43,7 @@ one-on-one sessions with experts in the field.
 ## Project Handbook
 
 Almost every question you might have about the project is answered in
-the project handbook [here](../2022_23_Project_handbook.pdf). **Check this first!**
+the project handbook [here](2022_23_Project_handbook.pdf). **Check this first!**
 
 ## Teams Channel
 
