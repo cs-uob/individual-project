@@ -22,8 +22,8 @@ title: Individual Project 2022
 email: john.lapinskas@bristol.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Page for the Individual Project unit of the University of Bristol undergraduate computer science degree programme.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/individual-project" # the subpath of your site, e.g. /blog
+url: "https://cs-uob.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: just-the-docs/just-the-docs
 #theme: just-the-docs
 
